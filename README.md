@@ -1,10 +1,16 @@
 # Zomato Clone Frontend Project
 
+![Descriptive Alt Text](./images/zomato-clone-frontend-project-1.png "Gemini Clone Project")
+
 ## Introduction
 
 Welcome to the Zomato Clone Frontend Project! This project is a clone of the Zomato website, designed to replicate its appearance and user interface. Zomato is a popular online platform for discovering restaurants, ordering food, and reading reviews.
 
 This project focuses solely on the frontend aspects and does not include any backend functionality. It is important to note that this clone is not responsive and is designed to work properly only on desktop views.
+
+## Deployment
+
+You can view the deployed project at: [Deployment Link](https://zomato-clone-frontend-project.hafeezbaig.in/)
 
 ## Prerequisites
 
@@ -46,6 +52,6 @@ This project is developed by [Hafeez Baig](https://www.hafeezbaig.in).
 - [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-hafeez-baig-52b21b209/)
 - [Instagram](https://www.instagram.com/mohammed_hafeez_baig/)
 
-## Deployment
+## Feedback or Bugs report
 
-You can view the deployed project at: [Deployment Link](https://zomato-clone-frontend-project.hafeezbaig.in/)
+- [Talk](https://talk.hafeezbaig.in)
